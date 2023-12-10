@@ -272,7 +272,7 @@ namespace Tyuiu.MedvedevA.Sprint6.Task4.V29
             this.Controls.Add(this.groupBoxUslovie_MA);
             this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FormMain";
-            this.Text = "Спринт 6 | Таск 4 | Вариант29 | Воробьев С.А.";
+            this.Text = "Спринт 6 | Таск 4 | Вариант29 | Медведев А. В.";
             this.groupBoxUslovie_MA.ResumeLayout(false);
             this.groupBoxUslovie_MA.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
